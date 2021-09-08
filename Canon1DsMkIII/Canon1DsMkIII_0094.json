@@ -1,0 +1,38 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "chair",
+            "points": [
+                [
+                    417.921568627451,
+                    1772.313725490196
+                ],
+                [
+                    429.68627450980387,
+                    1795.8431372549019
+                ],
+                [
+                    431,
+                    1875
+                ],
+                [
+                    674,
+                    1875
+                ],
+                [
+                    670.8627450980392,
+                    1772.313725490196
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "../../Canon1DsMkIII_PNG/Canon1DsMkIII_0094.PNG",
+    "imageData": null,
+    "imageHeight": 1876,
+    "imageWidth": 2820
+}

@@ -1,0 +1,34 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          315.58620689655174,
+          1915.793103448276
+        ],
+        [
+          326,
+          2009
+        ],
+        [
+          648.344827586207,
+          2008.8965517241381
+        ],
+        [
+          648.344827586207,
+          1912.344827586207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../NikonD5200_PNG/NikonD5200_0184.PNG",
+  "imageData": null,
+  "imageHeight": 2010,
+  "imageWidth": 3018
+}

@@ -1,0 +1,50 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "umbrella",
+            "points": [
+                [
+                    1751.0,
+                    275.0
+                ],
+                [
+                    1311.0,
+                    407.5
+                ],
+                [
+                    1721.0,
+                    390.0
+                ],
+                [
+                    1876.0,
+                    510.0
+                ],
+                [
+                    1993.5,
+                    497.5
+                ],
+                [
+                    2228.5,
+                    592.5
+                ],
+                [
+                    2416.0,
+                    587.5
+                ],
+                [
+                    2023.5,
+                    347.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "../../SonyA57_PNG/SonyA57_0010.PNG",
+    "imageData": null,
+    "imageHeight": 1638,
+    "imageWidth": 2464
+}
