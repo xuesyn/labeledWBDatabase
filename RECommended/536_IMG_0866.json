@@ -1,0 +1,34 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "book",
+            "points": [
+                [
+                    1363.2539682539682,
+                    500.68253968253964
+                ],
+                [
+                    1447.3809523809523,
+                    810.2063492063492
+                ],
+                [
+                    1675.952380952381,
+                    787.984126984127
+                ],
+                [
+                    1572.7777777777778,
+                    497.5079365079365
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "../../RECommended_TIFF/536_IMG_0866.json",
+    "imageData": null,
+    "imageHeight": 1460,
+    "imageWidth": 2193
+}

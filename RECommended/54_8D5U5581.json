@@ -1,0 +1,82 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "oven",
+            "points": [
+                [
+                    498.0,
+                    846.0
+                ],
+                [
+                    228.0,
+                    1188.0
+                ],
+                [
+                    273,
+                    1358
+                ],
+                [
+                    998,
+                    1358
+                ],
+                [
+                    986.0,
+                    1202.0
+                ],
+                [
+                    1024.0,
+                    870.0
+                ],
+                [
+                    896.0,
+                    872.0
+                ],
+                [
+                    894.0,
+                    848.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "refrigerator",
+            "points": [
+                [
+                    1172.0,
+                    960.0
+                ],
+                [
+                    1188.0,
+                    1200.0
+                ],
+                [
+                    1182,
+                    1358
+                ],
+                [
+                    1862,
+                    1358
+                ],
+                [
+                    1886.0,
+                    1200.0
+                ],
+                [
+                    1704.0,
+                    946.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "../../RECommended_TIFF/54_8D5U5581.json",
+    "imageData": null,
+    "imageHeight": 1359,
+    "imageWidth": 2041
+}

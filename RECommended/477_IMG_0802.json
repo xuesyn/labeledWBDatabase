@@ -1,0 +1,34 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "bench",
+            "points": [
+                [
+                    440.9756097560976,
+                    821.4634146341464
+                ],
+                [
+                    524.8780487804878,
+                    812.1951219512196
+                ],
+                [
+                    526.3414634146342,
+                    784.3902439024391
+                ],
+                [
+                    445.36585365853665,
+                    789.7560975609757
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "../../RECommended_TIFF/477_IMG_0802.json",
+    "imageData": null,
+    "imageHeight": 1460,
+    "imageWidth": 2193
+}
